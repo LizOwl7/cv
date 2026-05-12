@@ -13,6 +13,16 @@
 
 ## Английский язык**Уровень:** B1 (Intermediate)
 
+## Пример кода
+
+```python
+def hello_world():
+    print("Hello World")
+
+# Вызов функции
+hello_world()
+```
+
 ## Примеры кода
 ```javascript
 // Функция поиска дубликатов в массиве
